@@ -1,0 +1,88 @@
+body {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  font-family: "Outfit", sans-serif;
+  background-color: hsl(217, 54%, 11%);
+  }
+  
+  .card {
+    padding: 10px;
+    background-color: hsl(216, 50%, 16%);
+    width: 325px;
+    padding-left: 25px;
+    padding-top: 25px;
+    border-radius: 12px;
+  }
+  
+  .equilibrium-img {
+    width: 95%;
+    border-radius: 12px;
+  }
+  
+  h1 {
+    color: hsl(0, 0%, 100%);
+    font-size: 1.5rem;
+    margin-top: 12px;
+    font-weight: 500;
+    margin-top: 22px;
+  }
+  
+  .description {
+  color: white;
+  margin-bottom: 22px;
+  color:  hsl(215, 51%, 70%);
+  }
+  
+  .icon-ethereum {
+    margin-right: 6px;
+  }
+  
+  .icon-clock {
+    margin-right: 6px;
+  }
+  
+  .ethereum {
+  display: inline-block;
+  font-weight: 450;
+  color: hsl(178, 100%, 50%);
+  }
+  
+  .time {
+  margin-left: 120px;
+  color:  hsl(215, 51%, 70%);
+  }
+  
+  .line {
+    background-color: hsl(215, 32%, 27%);
+    width: 97%;
+    margin-top: 22px;
+  }
+  
+  .avatar {
+  height: 32px;
+  width: 32px;
+  object-fit: cover;
+  border-radius: 25px;
+  border: 1px solid white;
+  margin-right: 20px;
+  }
+  
+  .profile-text {
+  transform: translateY(-10px);
+  }
+  
+  .profile-text-2 {
+    transform: translateY(-10px);
+    margin-left: 6px;
+    font-weight: bolder;
+  }
+  
+  .profiles {
+    display: flex;
+    color: white;
+    margin-top: 16px;
+    font-weight: 100;
+  }
+  
